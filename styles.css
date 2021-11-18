@@ -1,5 +1,5 @@
 header {
-    background: url(kk.png);
+    background: url(zu.png);
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -80,10 +80,12 @@ h1 {
 #ban1 {
     margin: 150px;
     position: relative;
-    background: url(o.jpg);
+    background: url(iri.png);
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: center;
     position: relative;
     top: -100px;
     height: 500px;
+    text-align: center;
 }
