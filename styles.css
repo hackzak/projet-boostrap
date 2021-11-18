@@ -16,13 +16,14 @@ header {
 
 .preTxt {
     font-size: 70px;
-    margin: 0;
+    margin: 12px;
     color: #2f2d2d;
     line-height: 0.5;
 }
 
 h1 {
     font-size: 150px;
+    margin: 12px;
     color: #2f2d2d;
     font-family: 'kaushan Script';
     font-weight: 700;
