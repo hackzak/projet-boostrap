@@ -6,6 +6,7 @@ header {
     background-repeat: repeat;
     height: 95vh;
     justify-content: center;
+    display: flex;
 }
 
 .text-intro {
@@ -27,4 +28,62 @@ h1 {
     color: #2f2d2d;
     font-family: 'kaushan Script';
     font-weight: 700;
+}
+
+.navbar-brand {
+    font-size: 45px!important;
+    font-family: 'kaushan Script'!important;
+}
+
+.navbar-brand a {
+    color: #fff!important;
+    font-family: 'Lato';
+    font-size: 22px;
+    font-weight: 700;
+}
+
+/* sectino a propo */
+
+
+
+#aPropos {
+    margin: 150px;
+}
+
+/* sectino icon */
+
+.coi {
+    display: flex;
+    position: relative;
+    top: -4px;
+}
+
+.coin {
+    display: flex;
+    position: relative;
+    top: -4px
+}
+
+
+.coins {
+    display: flex;
+    position: relative;
+    top: -4px 
+}
+
+.icon {
+    margin: 150px;
+}
+
+/* première banière */
+
+#ban1 {
+    margin: 150px;
+    position: relative;
+    background: url(o.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    top: -100px;
+    height: 500px;
 }
