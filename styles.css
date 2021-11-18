@@ -89,3 +89,139 @@ h1 {
     height: 500px;
     text-align: center;
 }
+
+/* la galery*/
+
+#l {
+    margin: 12px;
+}
+
+#lo {
+    margin: 12px;
+}
+
+#lou {
+    margin: 12px;
+}
+
+/* Cartes */
+
+
+.offreH {
+    font-size: 70px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    font-family: 'kaushan Script';
+}
+
+#Cartes {
+    padding: 50px 0 100px 0;
+}
+
+.threeCards {
+    width: 300px;
+    height: 520px;
+    margin: 30px auto;
+    position: relative;
+    transition: 0.2s ease-in;
+    box-shadow: 0px 10px 30px black;
+}
+
+.threeCards:hover {
+    transform: scale(1.1);
+}
+
+.header {
+    height: 300px;
+    position: relative;
+    background: rgba(216, 216, 216, 0.5);
+}
+
+.header h2 {
+    margin: 0;
+    position: relative;
+    top: 130px;
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 15px;
+}
+
+#spanPris {
+    font-size: 40px;
+}
+
+.type {
+    height: 120px;
+    width: 300px;
+    background: rgba(2, 2, 2, 0.5);
+    clip-path: polygon(0 0, 100% 0, 100% 75% 0 100%);
+    position: absolute;
+    top: 0;
+}
+
+.type h2 {
+    margin: 0;
+    text-align: center;
+    color: #fff;
+    font-family: 'kaushan Script';
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+}
+
+.details {
+    background: white;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-family: 'Lato';
+    transition: all 0.2s ease-in;
+}
+#btn {
+    background: #fff;
+    height: 80px; 
+}
+
+#btn a {
+    text-decoration: none;
+    font-family: 'Lato';
+    color: black;
+    height: 50px;
+    width: 120px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    line-height: 50px;
+    position: relative; 
+    top: 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+    transition: all 0.2s ease-in
+}
+
+#btn a:hover {
+    background: black;
+    color: white
+}
+
+#progress {
+    margin: 120px;
+}
+
+/* section progress */
+
+#pregress {
+    border-top: 1px dashed #000;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/* clients */
+
+#clients {
+    border-top: 1px dashed #000;
+    border-bottom: 1px solid #000;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 120px;
+}
