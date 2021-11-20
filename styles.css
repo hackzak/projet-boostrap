@@ -81,9 +81,9 @@ h1 {
     margin: 150px;
     position: relative;
     background: url(iri.png);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
-    background-position: center;
+    background-position: 100%;
     position: relative;
     top: -100px;
     height: 500px;
@@ -218,7 +218,7 @@ h1 {
 
 /* clients */
 
-#clients {
+#contacte {
     border-top: 1px dashed #000;
     border-bottom: 1px solid #000;
     padding-top: 50px;
