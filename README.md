@@ -1,0 +1,3 @@
+j'ais realiser le site de moi mème, j'ais regarder des tuto pour le créer ce site,j'ais mi 2 jours a le créer et je suis satisfait de mon site.la chène<a href="https://www.youtube.com/channel/UCMFbNXUkjSUJ6WC20tGTzJg">Le Designeur Du Web</a> que jais regarder et ais regarder des formation du site <a href="https://www.ecole-du-web.net/">L'ecole Du Web</a>pour realiser ce site.Le lien de mon <a href="https://hackzak.github.io/projet-boostrap/">Site bootstrap</a>
+
+J'ais regarder des tuto de<a href="https://www.youtube.com/channel/UCIHVyohXw6j2T-83-uLngEg">graven</a>pour realiser Maxiburger - Restorantvouspouvez regarder le site n'est pas pour telephone ni pour tablète, il est pour ordinateur. 
